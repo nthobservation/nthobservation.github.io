@@ -4,11 +4,11 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Observations & Thoughts</title>
-	<link href="http://nthobservation.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://nthobservation.github.io/blog"/>
+	<title></title>
+	<link href="http://nthobservation.github.io/writing/atom.xml" rel="self"/>
+	<link href="http://nthobservation.github.io/writing"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://nthobservation.github.io/blog</id>
+	<id>http://nthobservation.github.io/writing</id>
 	<author>
 		<name>nthobservation</name>
 		<email>nthobservation@gmail.com</email>
