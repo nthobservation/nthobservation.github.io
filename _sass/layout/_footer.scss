@@ -10,7 +10,7 @@
 		#sidebar + #wrapper + & {
 			margin-left: _size(sidebar-width);
 
-			@include breakpoint(large) {
+			@include breakpoint('<=large') {
 				margin-left: 0;
 			}
 		}

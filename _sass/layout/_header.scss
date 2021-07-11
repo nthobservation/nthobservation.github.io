@@ -59,11 +59,11 @@
 			}
 		}
 
-		@include breakpoint(small) {
+		@include breakpoint('<=small') {
 			padding: 1em 2em;
 		}
 
-		@include breakpoint(xsmall) {
+		@include breakpoint('<=xsmall') {
 			display: block;
 			padding: 0 2em;
 			text-align: left;
