@@ -1,6 +1,4 @@
 name: nthObservation
 markdown: kramdown
 permalink: /blog/:title
-sass:
-    sass_dir: assets
-    style: compressed
+
