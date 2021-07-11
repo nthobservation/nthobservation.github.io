@@ -111,6 +111,9 @@ input, select, textarea {
 		}
 
 /* Type */
+.menu {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.55);
