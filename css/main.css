@@ -111,6 +111,10 @@ input, select, textarea {
 		}
 
 /* Type */
+.menu {
+font:10px "Arial",san-serif;
+}
+
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.55);
